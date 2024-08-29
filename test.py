@@ -38,4 +38,3 @@ result = work_rate.calculate((user))
 
 print(f"Your gross pay is: {result}")
 
-# 1.1
